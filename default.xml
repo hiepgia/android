@@ -4,8 +4,11 @@
   <remote  name="aosp"
            fetch="https://android.googlesource.com" />
            
-   <remote  name="hiepgia"
+  <remote  name="hiepgia"
            fetch="https://github.com/hiepgia/" />
+           
+  <remote  name="gh"
+           fetch="https://github.com/" />
 
   <remote  name="github"
            fetch=".."
@@ -324,4 +327,5 @@
   <project path="system/su" name="CyanogenMod/android_system_su" />
   <project path="system/vold" name="CyanogenMod/android_system_vold" />
   <project path="vendor/cm" name="CyanogenMod/android_vendor_cm" />
+  <project name="TheMuppets/proprietary_vendor_hp" path="vendor/hp" remote="gh" revision="ics" />
 </manifest>
