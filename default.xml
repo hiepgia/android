@@ -3,6 +3,9 @@
 
   <remote  name="aosp"
            fetch="https://android.googlesource.com" />
+           
+   <remote  name="hiepgia"
+           fetch="https://github.com/hiepgia/" />
 
   <remote  name="github"
            fetch=".."
@@ -210,7 +213,7 @@
   <project path="frameworks/testing" name="CyanogenMod/android_frameworks_testing" />
   <project path="frameworks/wilhelm" name="CyanogenMod/android_frameworks_wilhelm" />
   <project path="gdk" name="CyanogenMod/android_gdk" />
-  <project path="hardware/broadcom/wlan" name="CyanogenMod/android_hardware_broadcom_wlan" />
+  <project path="hardware/broadcom/wlan" name="CyanogenMod/android_hardware_broadcom_wlan" remote="hiepgia" />
   <project path="hardware/atheros/wlan" name="CyanogenMod/android_hardware_atheros_wlan" revision="ics" />
   <project path="hardware/cm" name="CyanogenMod/android_hardware_cm" />
   <project path="hardware/invensense" name="CyanogenMod/android_hardware_invensense" />
