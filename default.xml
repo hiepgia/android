@@ -330,6 +330,6 @@
   <project name="erolmutlu/android_packages_apps_SamsungServiceMode" path="packages/apps/SamsungServiceMode" remote="gh" />
   <project name="erolmutlu/android_kernel_samsung_smdk4210" path="kernel/samsung/smdk4210" remote="gh" />
   <project name="erolmutlu/proprietary_vendor_samsung" path="vendor/samsung" remote="gh" />
-  <project name="erolmutlu/android_device_samsung_galaxys2" path="device/samsung/galaxys2" remote="gh" />
+  <project name="hiepgia/android_device_samsung_galaxys2" path="device/samsung/galaxys2" remote="gh" />
   <project name="gentooo/android_hardware_samsung" path="hardware/samsung" remote="gh" />
 </manifest>
