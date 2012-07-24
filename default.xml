@@ -332,6 +332,7 @@
   <project name="hiepgia/android_device_samsung_galaxys2" path="device/samsung/galaxys2" remote="gh" />
   <project name="CyanogenMod/android_hardware_samsung" path="hardware/samsung" remote="gh" /> -->
   <project name="hiepgia/android_device_hp_tenderloin" path="device/hp/tenderloin" remote="gh" />
-  <project name="hiepgia/android_hardware_atheros_wlan" path="hardware/atheros/wlan" remot
+  <project name="hiepgia/android_hardware_atheros_wlan" path="hardware/atheros/wlan" remote="gh" />
+  <project name="hiepgia/hp-kernel-tenderloin" path="kernel/hp/tenderloin" remote="gh" />
   <project name="TheMuppets/proprietary_vendor_hp" path="vendor/hp" revision="ics" remote="gh" />
 </manifest>
