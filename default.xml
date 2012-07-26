@@ -326,12 +326,4 @@
   <project path="system/su" name="CyanogenMod/android_system_su" />
   <project path="system/vold" name="CyanogenMod/android_system_vold" />
   <project path="vendor/cm" name="CyanogenMod/android_vendor_cm" />
-<!--  <project name="erolmutlu/android_packages_apps_SamsungServiceMode" path="packages/apps/SamsungServiceMode" remote="gh" />
-  <project name="gokhanmoral/siyahkernel3" path="kernel/siyahkernel3" remote="gh" revision="update4-3.0.y" />
-  <project name="erolmutlu/proprietary_vendor_samsung" path="vendor/samsung" remote="gh" />
-  <project name="hiepgia/android_device_samsung_galaxys2" path="device/samsung/galaxys2" remote="gh" />
-  <project name="CyanogenMod/android_hardware_samsung" path="hardware/samsung" remote="gh" /> -->
-  <project name="hiepgia/android_device_hp_tenderloin" path="device/hp/tenderloin" remote="gh" />
-  <project name="hiepgia/android_hardware_atheros_wlan" path="hardware/atheros/wlan" remote="gh" />
-  <project name="hiepgia/hp-kernel-tenderloin" path="kernel/hp/tenderloin" remote="gh" />
 </manifest>
